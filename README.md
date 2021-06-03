@@ -1,3 +1,3 @@
 # SEI Área Brasil
 
-- [Aulão Nordes](https://mickhill-qa.github.io/sei-area-brasil/nordeste/)
+- [Aulão Nordes](https://seiareabrasil.github.io/transmissoes/)

@@ -1,3 +1,3 @@
 # SEI Área Brasil
 
-- [Aulão Nordes](https://seiareabrasil.github.io/transmissoes/aulao/)
+- [Aulão Regional](https://seiareabrasil.github.io/transmissoes/aulao/)

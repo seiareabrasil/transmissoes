@@ -25,7 +25,7 @@ $(function(){
 				message += "para iniciar!";
 			}
 			else {
-				message += "A transmissão comessará a qualquer momento...";
+				message += "A transmissão começará a qualquer momento...";
 				countdown.style.display = "none";
 			}
 			
